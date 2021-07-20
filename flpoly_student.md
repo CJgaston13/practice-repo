@@ -7,7 +7,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 | :-----------| :-----------| :---------------------| :------------|
 | COP         | 2073        | Intro to Data Science | 3            |
 
-https://github.com/CJgaston13/practice-repo/blob/main/flpoly_student.md
+https://github.com/CJgaston13/practice-repo.git
+
+![Screenshot 2021-07-20 134648](https://user-images.githubusercontent.com/86932949/126371640-e4d65de7-8460-4037-a157-ce1f81e1116a.jpg)
 
 **Hobbies:**
 
