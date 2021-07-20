@@ -3,14 +3,11 @@
 ### Summer B
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+| Prefix      | Number      | Name                  | Credits      |
+| :-----------| :-----------| :---------------------| :------------|
+| COP         | 2073        | Intro to Data Science | 3            |
 
-- Course 1
-Intro to Data Science
-- Course 2
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
